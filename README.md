@@ -1,5 +1,5 @@
 # Customer Life Time Value Prediction
-Job_a_thon_jan_2023
+Job_a_thon_jan_2023, AV Public rank - 80 and AV private rank - 71
 
 # Problem Statement
 
